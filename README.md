@@ -30,19 +30,19 @@ The implementation follows these key steps:
    - Created a condensation function to streamline descriptions into model-compatible format
 
 3. **Image Generation**
-   [![AI Image Generation](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg)](https://pixabay.com/illustrations/artificial-intelligence-brain-think-3706562/)
+   [![Alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png)
    - Fed condensed prompts into the Stable Diffusion pipeline
    - Generated high-quality RGB images matching the descriptions
    - Utilized GPU acceleration for optimal performance
 
+
 4. **Sketch Conversion**
-   [![Sketch Conversion](https://cdn.pixabay.com/photo/2017/12/10/17/00/robot-3010309_1280.jpg)](https://pixabay.com/illustrations/robot-machine-technology-modern-3010309/)
    - Transformed RGB images into grayscale
    - Applied image inversion to enhance light and shadow
    - Used Gaussian blur for natural softness
    - Employed color dodge blending to create pencil sketch effect
    - Saved final sketches as high-quality PNG files
-
+[![Alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png)
 ## Applications and Benefits
 [![Law Enforcement Technology](https://cdn.pixabay.com/photo/2019/04/29/20/41/technology-4167295_1280.jpg)](https://pixabay.com/illustrations/technology-blockchain-cyber-security-4167295/)
 
@@ -77,13 +77,3 @@ Future enhancements could include:
 
 CRISYS represents a significant advancement in criminal identification technology, offering a faster, more reliable alternative to traditional sketch artists. By automating the generation of suspect sketches based on verbal descriptions, the system enhances the efficiency and accuracy of criminal investigations, potentially revolutionizing how law enforcement identifies and apprehends suspects.
 
-## Team Members
-[![Team Collaboration](https://cdn.pixabay.com/photo/2018/03/03/20/02/laptop-3196481_1280.jpg)](https://pixabay.com/photos/laptop-notebook-work-keyboard-3196481/)
-
-- Debasmita Bhakat (2105618)
-- Devendra Mouli Bhattacharya (2105713)
-- Sayan Chattopadhyay (2105748)
-- Soubhagya Roy (2105753)
-- Ayusha Sharma (21051124)
-
-Under the guidance of Dr. Soumya Ranjan Mishra, KIIT Deemed to be University
