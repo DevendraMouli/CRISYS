@@ -1,4 +1,4 @@
-# Criminal Recognition and Identification System (CRISYS) - Summary
+# Criminal Recognition and Identification System (CRISYS)
 
 ## Project Overview
 
