@@ -18,23 +18,21 @@ CRISYS leverages the Stable Diffusion model, a latent diffusion model initially 
 The implementation follows these key steps:
 
 1. **Data Preparation**
-   [![Data Processing](https://cdn.pixabay.com/photo/2018/07/15/15/39/data-center-3539383_1280.jpg)](https://pixabay.com/illustrations/data-center-data-privacy-policy-3539383/)
    - Utilized the FFHQ (Flickr-Faces-HQ) dataset from Kaggle
    - Preprocessed images for consistency in resolution and format
    - Applied data augmentation techniques to enhance diversity
+     ![Alt text](https://raw.githubusercontent.com/NVlabs/ffhq-dataset/master/ffhq-teaser.png)
 
 2. **Prompt Processing**
-   [![NLP Processing](https://cdn.pixabay.com/photo/2017/12/09/22/42/brain-3008248_1280.jpg)](https://pixabay.com/photos/brain-neurons-gray-matter-human-3008248/)
    - Developed a systematic approach for converting detailed descriptions into structured prompts
    - Identified key facial features (face type, eye shape, hair style, etc.)
    - Created a condensation function to streamline descriptions into model-compatible format
 
 3. **Image Generation**
-   [![Alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png)
    - Fed condensed prompts into the Stable Diffusion pipeline
    - Generated high-quality RGB images matching the descriptions
    - Utilized GPU acceleration for optimal performance
-
+![Alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*N5UEm-OMwqBoIZntUpW5XQ.png)
 
 4. **Sketch Conversion**
    - Transformed RGB images into grayscale
