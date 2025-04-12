@@ -5,7 +5,7 @@
 The Criminal Recognition and Identification System (CRISYS) represents a breakthrough in law enforcement technology, utilizing artificial intelligence to transform textual descriptions of suspects into visual representations. This innovative system combines natural language processing (NLP) and generative adversarial networks (GANs) to create accurate facial images from witness descriptions.
 
 ## Core Technology
-![Alt text](https://stability.ai/news/stable-diffusion-3-api)
+![Alt text](https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/e99c4613-b995-409e-b9e2-2f0d92643998/SD3+API+Blog+6.png?format=2500w)
 
 CRISYS leverages the Stable Diffusion model, a latent diffusion model initially trained on 512x512 images from the LAION-5B database. The system's architecture consists of three main components:
 - **Autoencoder (VAE)**: Converts images into low-dimensional latent representations and vice versa
