@@ -40,8 +40,6 @@ The implementation follows these key steps:
    - Saved final sketches as high-quality PNG files
 [![Alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*6flxiUn7NvNZARo87WCLbQ.png)
 ## Applications and Benefits
-[![Law Enforcement Technology](https://cdn.pixabay.com/photo/2019/04/29/20/41/technology-4167295_1280.jpg)](https://pixabay.com/illustrations/technology-blockchain-cyber-security-4167295/)
-
 CRISYS offers several advantages for law enforcement:
 - **Increased Speed**: Generates sketches much faster than traditional methods
 - **Improved Accuracy**: Reduces human error and subjectivity in sketch creation
