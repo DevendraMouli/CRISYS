@@ -13,8 +13,6 @@ CRISYS leverages the Stable Diffusion model, a latent diffusion model initially 
 - **Text-encoder**: Transforms text prompts into embeddings that guide image generation
 
 ## Implementation Process
-[![Implementation Process](https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537_1280.jpg)](https://pixabay.com/photos/train-underground-train-station-1728537/)
-
 The implementation follows these key steps:
 
 1. **Data Preparation**
@@ -51,16 +49,12 @@ CRISYS offers several advantages for law enforcement:
 - **Accessibility**: Provides a user-friendly interface for both witnesses and law enforcement
 
 ## Ethical Considerations
-[![Ethics in AI](https://cdn.pixabay.com/photo/2021/08/02/20/35/artificial-intelligence-6517862_1280.jpg)](https://pixabay.com/illustrations/artificial-intelligence-brain-think-6517862/)
-
 The project addresses several ethical challenges:
 - **Bias Mitigation**: Ensuring the system doesn't perpetuate biases present in training data
 - **Privacy Protection**: Implementing strict data protection protocols
 - **Responsible Use**: Establishing guidelines to prevent misuse
 
 ## Future Scope
-[![Future Technology](https://cdn.pixabay.com/photo/2017/08/03/16/01/technology-2577990_1280.jpg)](https://pixabay.com/illustrations/technology-board-medium-background-2577990/)
-
 Future enhancements could include:
 - Integration with larger criminal databases
 - Implementation of age progression capabilities
@@ -71,7 +65,5 @@ Future enhancements could include:
 - Cross-jurisdictional collaboration through cloud integration
 
 ## Conclusion
-[![Digital Security](https://cdn.pixabay.com/photo/2017/01/10/23/01/network-1970334_1280.png)](https://pixabay.com/illustrations/network-earth-block-chain-globe-1970334/)
-
 CRISYS represents a significant advancement in criminal identification technology, offering a faster, more reliable alternative to traditional sketch artists. By automating the generation of suspect sketches based on verbal descriptions, the system enhances the efficiency and accuracy of criminal investigations, potentially revolutionizing how law enforcement identifies and apprehends suspects.
 
